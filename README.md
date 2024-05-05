@@ -33,7 +33,7 @@ REGISTER NUMBER: 212222230050
 # Get the input String
 
 ```
-string = 'ALAGU NACHIYAR K'
+string = 'JANANI V S'
 class NodeTree(object):
     def __init__(self, left=None, right=None): 
         self.left = left
